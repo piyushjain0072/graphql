@@ -4,3 +4,6 @@ allows us to structure data driven application in a more flexible and efficient 
 Install following packages:
 
 express, nodemon, graphql, express-graphql
+
+Install the following packages in frontend:
+apollo-boost react-apollo graphql
