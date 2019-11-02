@@ -15,7 +15,7 @@ function App() {
   return (
     <ApolloProvider client={client}>
       <div id="main">
-        <h1>Piyush Jain</h1>
+        <h1>Book Details</h1>
         <BookList />
         <AddBook />
       </div>
